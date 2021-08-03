@@ -2,7 +2,6 @@ package com.ink.springframework.beans.factory.support;
 
 import com.ink.springframework.beans.factory.BeanFactory;
 import com.ink.springframework.beans.factory.config.BeanDefinition;
-import com.ink.springframework.beans.factory.config.DefaultSingletonBeanRegistry;
 
 import java.util.Objects;
 
